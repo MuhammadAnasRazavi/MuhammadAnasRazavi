@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadAnasRazavi
+- 👋 Hi, I’m Siddiqui Muhammad Anas Hanafi Razavi
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android Development with Jetpack Compose
 <!--- 💞️ I’m looking to collaborate on -->
